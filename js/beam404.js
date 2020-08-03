@@ -1,7 +1,7 @@
 (function() {
     var s = document.createElement('script');
     s.type = 'text/javascript';
-    s.async = true;
+//    s.async = true;
 
     var page_url = window.location.href;
     var beam404_url = 'https://wayback.archive-it.org/2502/20190705110309/' + encodeURIComponent(page_url);
@@ -16,14 +16,14 @@
 //    h.appendChild(l);
 })();
 
-beam404_callback = function(obj) {
+// beam404_callback = function(obj) {
     var archived_text = "Would you like to <a href='$url' onClick='beam404_record_click(this); return true;'>see an archived version of this page</a> in the Bodleian Libraries' Web Archive?";
     var maybe_text    = "Would you like to <a href='$url' onClick='beam404_record_click(this); return true;'>check the Bodleian Libraries' Web Archive</a> for this website?";
     var wb_image = 'https://archive-it.org/image/account/logo/467';
 
 //    if (!obj.archived_snapshots || !obj.archived_snapshots.closest || !obj.archived_snapshots.closest.available) {
 //        return false;
-    }
+//    }
 
 //    var url = obj.archived_snapshots.closest.url;
     var html = "<br/><div class='beam404_imagediv'><a href='"+url+"' onClick='beam404_record_click(this); return true;'><img class='beam404_image' src='" + wb_image + "'/></a></div>";
