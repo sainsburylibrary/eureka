@@ -1,8 +1,26 @@
-/* Foundation was made by ZURB, an interaction design and design strategy firm in Campbell, CA */
-/* zurb.com */
-/* humanstxt.org */
+/* TEAM */
+		Project Lead: Hal Kirkwood  - Bodleian Business Librarian                 
+		Site: https://www.bodleian.ox.ac.uk/business/contact 
+		Twitter: @halkirkwood                                          
+		Location: Oxford, UK.    
+		
+		Project Manager: Becci Hutchins  - Senior Information Officer, Sainsbury Library                 
+		Site: https://www.bodleian.ox.ac.uk/business/contact                                           
+		Location: Oxford, UK.                     
+                         
+		Web Developer: John Pilbeam – Web/Digital Officer, Sainsbury Library                       
+		Site: https://www.bodleian.ox.ac.uk/business/contact                            
+		Twitter: @jpilbeam                    
+		Location: Oxford, UK.
 
 /* SITE */
-  Standards: HTML5, CSS3
-  Components: jQuery, Orbit, Reveal
-  Software: Sublime, Git, Sass
+		Standards: HTML5, CSS3
+		Components: jQuery, Orbit, Reveal
+		Software: BBEdit, iTerm2, Tower, Transmit, Photoshop
+
+/* THANKS */
+		This site uses the Foundation UI framwork by ZURB, an interaction design and design strategy firm in Campbell, CA, USA.
+		zurb.com
+	
+		humans.txt for this text file standard.
+		humanstxt.org
