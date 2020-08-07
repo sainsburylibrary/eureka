@@ -3,14 +3,13 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>404 – File not found: Archive of Eureka: The SBS Repository</title>
+    <title>This content has moved: Archive of Eureka: The SBS Repository</title>
     <link rel="stylesheet" href="css/foundation.css" />
     <link rel="stylesheet" href="foundation-icons/foundation-icons.css" />
     <link rel="stylesheet" href="foundation_icons_general/stylesheets/general_foundicons.css" />
     <link rel="stylesheet" href="css/app.css" />
     <link rel="stylesheet" type="text/css" href="css/auto-3.3.12.css" />
     <script src="js/vendor/modernizr.js"></script>
-   <!-- <script src="js/vendor/beam.404.js"></script> -->
     <!-- Google Analytics - Uncomment before launch
     <script type="text/javascript">
   		var _gaq = _gaq || [];
@@ -48,13 +47,13 @@
   <section class="top-bar-section">
     <!-- Left Nav Section -->
     <ul class="left" id="ep_tm_menu">
-        <li class="active"><a href="/eureka">Home</a></li>
-		<li><a href="/eureka/latest">Latest Additions</a></li>
+        <li><a href="/">Home</a></li>
+		<!--<li><a href="/eureka/latest">Latest Additions</a></li>-->
 		<li><a href="/eureka/copyright/">Copyright</a></li>
-		<li><a href="search.html">Search</a></li>
-		<li><a href="http://eureka.bodleian.ox.ac.uk/browse.html">Browse</a></li>
+		<!--<li><a href="search.html">Search</a></li>-->
+		<!--<li><a href="http://eureka.bodleian.ox.ac.uk/browse.html">Browse</a></li>-->
 		<li><a href="http://eureka.bodleian.ox.ac.uk/information.html">Information</a></li>
-		<li><a href="http://eureka.bodleian.ox.ac.uk/faq.html">FAQs</a></li>
+		<!--<li><a href="http://eureka.bodleian.ox.ac.uk/faq.html">FAQs</a></li>-->
 		<!-- <li><a href="{$config{http_url}}/view/subjects">Browse by Subject</a></li> -->
 		<li><a href="/eureka/about/">About</a></li>
     </ul>
@@ -129,14 +128,25 @@
 <h1 style="text-align: left;">This content has moved</h1>
 <br/>
 <!--<p>This content is no longer available on Eureka due to the live repository closing down. Try one of the following options:</p>-->
-<ul>
+
+<script>
+document.write("<ul>
 <li><strong>
-<a id="beamlink" href=''>View an archived version in the Bodleian Libraries' Web Archive.</a>
+<a id="beamlink" href=''>View an archived version in the Bodleian Libraries' Web Archive</a>
 </strong></li>
 <li>
-<a href="https://wayback.archive-it.org/2502/*/http://eureka.sbs.ox.ac.uk/">Browse the Bodleian Libraries' Web Archive of Eureka.</a>
+<a href="https://wayback.archive-it.org/2502/*/http://eureka.sbs.ox.ac.uk/">Browse the Bodleian Libraries' Web Archive of Eureka</a>
+</li>
+</ul>")
+</script>
+
+<noscript>
+<ul>
+<li>
+<a href="https://wayback.archive-it.org/2502/*/http://eureka.sbs.ox.ac.uk/">Browse the Bodleian Libraries' Web Archive of Eureka</a>
 </li>
 </ul>
+<noscript>
 
 <script src="js/vendor/beam.404.js"> </script>
 
