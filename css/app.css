@@ -307,4 +307,4 @@ div.ep_page a, div.ep_page a:hover, div.ep_page a:visited {color: #002246 !impor
 div.ep_only_js a.button {color: white !important;}
 div.ep_summary_box_title {background-color:#E9E3DA !important; border-color:#ccc !important;}
 input.ep_form_action_button {background-color: #002246 !important; border: 1px solid #002246 !important;}
-div.columns a { text-decoration: underline; }
+div.columns p a { text-decoration: underline; }
