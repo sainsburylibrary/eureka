@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<base href="https://eureka.sbs.ox.ac.uk/">
+    <title>This content has moved: Archive of Eureka: The SBS Repository</title>
+    <link rel="stylesheet" href="css/foundation.css" />
+    <link rel="stylesheet" href="foundation-icons/foundation-icons.css" />
+    <link rel="stylesheet" href="foundation_icons_general/stylesheets/general_foundicons.css" />
+    <link rel="stylesheet" href="css/app.css" />
+    <link rel="stylesheet" type="text/css" href="css/auto-3.3.12.css" />
+    <script src="js/vendor/modernizr.js"></script>
+    <!-- Google Analytics -->
+    <script type="text/javascript">
+  		var _gaq = _gaq || [];
+  		_gaq.push(['_setAccount', 'UA-29532535-1']);
+  		_gaq.push(['_trackPageview']);
+  		(function() {
+    		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  		})();
+	</script>
+	<!-- End Google Analytics -->
+  </head>
+  <body>
+
+<!-- Wrapper-->
+      <div class="row" id="wrapper">
+      <div class="large-12 columns">
+
+      <div class="row">
+      <div class="large-12 columns header">
+      <img class="hide-for-medium-up hide-for-print" alt="platinum-banner" src="img/platinum-banner-small.png" width="640" height="135">
+      <img class="hide-for-small" alt="platinum-banner" src="img/platinum-banner-web.png" width="100%">
+  <nav class="top-bar" data-topbar>
+  <ul class="title-area">
+    <li class="name">
+    <!-- Leave this empty -->
+      <!--
+      <h1><a href="#">Eureka</a></h1>
+      -->
+    </li>
+    <li class="toggle-topbar menu-icon"><a href="#">Menu</a></li>
+  </ul>
+
+  <section class="top-bar-section">
+    <!-- Left Nav Section -->
+    <ul class="left" id="ep_tm_menu">
+        <li><a href="#">Home</a></li>
+        <li><a href="information.html">Information</a></li>
+        <li><a href="contact.html">Contact</a></li>
+		<!--<li><a href="/eureka/latest">Latest Additions</a></li>-->
+		<!--<li><a href="https://wayback.archive-it.org/2502/20190705110515/http://eureka.sbs.ox.ac.uk/copyright.html">Copyright</a></li>-->
+		<!--<li><a href="search.html">Search</a></li>-->
+		<!--<li><a href="http://eureka.bodleian.ox.ac.uk/browse.html">Browse</a></li>-->
+		<!--<li><a href="http://eureka.bodleian.ox.ac.uk/faq.html">FAQs</a></li>-->
+		<!-- <li><a href="{$config{http_url}}/view/subjects">Browse by Subject</a></li> -->
+		<!--<li><a href="about/">About</a></li>-->
+    </ul>
+    <!-- Right Nav Section -->
+    <ul class="right">
+      <li><a href="http://www.bodleian.ox.ac.uk/business" target="_blank">Sainsbury Library</a></li>
+    </ul>
+  </section>
+</nav>
+
+</div>
+    </div>
+   
+<!-- Remove login and colab links 
+       <div class="row">
+       
+      <div class="large-12 columns"> 
+     <ul class="sub-nav">
+  		<li><a href="http://eureka.bodleian.ox.ac.uk/cgi/users/home">Log In</a></li>
+  		<li><a href="/cgi/register">Become a Contributor</a></li>
+	</ul>
+      </div>
+    </div>
+-->    
+
+   
+    <!-- Column and main content row -->
+    <div class="row">
+    <!-- Sidebar -->
+       <div class="large-3 medium-4 columns">
+              <div class="hide-for-small">
+                <div class="sidebar">
+						<!-- Remove search
+						<form>
+							<div class="row collapse">
+								<div class="small-8 columns">
+									<input tabindex="1" id="autocomplete" type="search" placeholder="Simple search" autocomplete="off">
+									<p>
+										<a href="#" style="text-decoration: underline;">Advanced Search&hellip;</a>
+									</p>
+								</div>
+								<div class="small-4 columns">
+									<a href="#" class="button tiny"><i class="fi-magnifying-glass" style="font-size: 1.3em;"></i></a> 
+								</div>
+							</div>
+						</form>
+						End Remove search -->
+						<nav>
+							<ul class="side-nav" style="margin-top:10px;">
+								<li class="heading">Archive</li>
+								<li><a href="https://wayback.archive-it.org/org-467/20200807110009/https://eureka.sbs.ox.ac.uk/"><span class="label round">Lastest Capture</span></a></li>
+								<li><a href="https://wayback.archive-it.org/org-467/*/https://eureka.sbs.ox.ac.uk/"><span class="label round">All Captures</span></a></li>
+							</ul>
+						</nav>
+
+
+
+</div>
+              </div>
+            </div>
+       <!-- End Sidebar -->
+
+           
+<!-- Main Content Column --> 
+
+  <div class="large-9 medium-8 columns">
+  
+<h1 style="text-align: left;">Centre for Business Taxation (CBT)</h1>
+<br/>
+		<ul>
+			<li><a href="https://wayback.archive-it.org/org-467/20200807112807/http://eureka.sbs.ox.ac.uk/view/divisions/cen=5Fcbt/2019.html">2019</a> (3)</li>
+			<li><a href="https://wayback.archive-it.org/org-467/20200807112807/http://eureka.sbs.ox.ac.uk/view/divisions/cen=5Fcbt/2018.html">2018</a> (4)</li>
+			<li><a href="https://wayback.archive-it.org/org-467/20200807112807/http://eureka.sbs.ox.ac.uk/view/divisions/cen=5Fcbt/2017.html">2017</a> (11)</li>
+			<li><a href="https://wayback.archive-it.org/org-467/20200807112807/http://eureka.sbs.ox.ac.uk/view/divisions/cen=5Fcbt/2016.html">2016</a> (8)</li>
+			<li><a href="https://wayback.archive-it.org/org-467/20200807112807/http://eureka.sbs.ox.ac.uk/view/divisions/cen=5Fcbt/2015.html">2015</a> (13)</li>
+			<li><a href="https://wayback.archive-it.org/org-467/20200807112807/http://eureka.sbs.ox.ac.uk/view/divisions/cen=5Fcbt/2014.html">2014</a> (62)</li>
+			<li><a href="https://wayback.archive-it.org/org-467/20200807112807/http://eureka.sbs.ox.ac.uk/view/divisions/cen=5Fcbt/2013.html">2013</a> (137)</li>
+			<li><a href="https://wayback.archive-it.org/org-467/20200807112807/http://eureka.sbs.ox.ac.uk/view/divisions/cen=5Fcbt/2012.html">2012</a> (148)</li>
+			<li><a href="https://wayback.archive-it.org/org-467/20200807112807/http://eureka.sbs.ox.ac.uk/view/divisions/cen=5Fcbt/2011.html">2011</a> (91)</li>
+			<li><a href="https://wayback.archive-it.org/org-467/20200807112807/http://eureka.sbs.ox.ac.uk/view/divisions/cen=5Fcbt/2010.html">2010</a> (56)</li>
+			<li><a href="https://wayback.archive-it.org/org-467/20200807112807/http://eureka.sbs.ox.ac.uk/view/divisions/cen=5Fcbt/2009.html">2009</a> (50)</li>
+			<li><a href="https://wayback.archive-it.org/org-467/20200807112807/http://eureka.sbs.ox.ac.uk/view/divisions/cen=5Fcbt/2008.html">2008</a> (47)</li>
+			<li><a href="https://wayback.archive-it.org/org-467/20200807112807/http://eureka.sbs.ox.ac.uk/view/divisions/cen=5Fcbt/2007.html">2007</a> (26)</li>
+			<li><a href="https://wayback.archive-it.org/org-467/20200807112807/http://eureka.sbs.ox.ac.uk/view/divisions/cen=5Fcbt/2006.html">2006</a> (7)</li>
+			<li><a href="https://wayback.archive-it.org/org-467/20200807112807/http://eureka.sbs.ox.ac.uk/view/divisions/cen=5Fcbt/2005.html">2005</a> (3)</li>
+			<li><a href="https://wayback.archive-it.org/org-467/20200807112807/http://eureka.sbs.ox.ac.uk/view/divisions/cen=5Fcbt/2004.html">2004</a> (7)</li>
+			<li><a href="https://wayback.archive-it.org/org-467/20200807112807/http://eureka.sbs.ox.ac.uk/view/divisions/cen=5Fcbt/2003.html">2003</a> (6)</li>
+			<li><a href="https://wayback.archive-it.org/org-467/20200807112807/http://eureka.sbs.ox.ac.uk/view/divisions/cen=5Fcbt/2002.html">2002</a> (3)</li>
+			<li><a href="https://wayback.archive-it.org/org-467/20200807112807/http://eureka.sbs.ox.ac.uk/view/divisions/cen=5Fcbt/2001.html">2001</a> (2)</li>
+			<li><a href="https://wayback.archive-it.org/org-467/20200807112807/http://eureka.sbs.ox.ac.uk/view/divisions/cen=5Fcbt/2000.html">2000</a> (2)</li>
+			<li><a href="https://wayback.archive-it.org/org-467/20200807112807/http://eureka.sbs.ox.ac.uk/view/divisions/cen=5Fcbt/1999.html">1999</a> (1)</li>
+			<li><a href="https://wayback.archive-it.org/org-467/20200807112807/http://eureka.sbs.ox.ac.uk/view/divisions/cen=5Fcbt/1998.html">1998</a> (3)</li>
+			<li><a href="https://wayback.archive-it.org/org-467/20200807112807/http://eureka.sbs.ox.ac.uk/view/divisions/cen=5Fcbt/1997.html">1997</a> (2)</li>
+			<li><a href="https://wayback.archive-it.org/org-467/20200807112807/http://eureka.sbs.ox.ac.uk/view/divisions/cen=5Fcbt/1996.html">1996</a> (4)</li>
+			<li><a href="https://wayback.archive-it.org/org-467/20200807112807/http://eureka.sbs.ox.ac.uk/view/divisions/cen=5Fcbt/1995.html">1995</a> (6)</li>
+			<li><a href="https://wayback.archive-it.org/org-467/20200807112807/http://eureka.sbs.ox.ac.uk/view/divisions/cen=5Fcbt/1994.html">1994</a> (2)</li>
+			<li><a href="https://wayback.archive-it.org/org-467/20200807112807/http://eureka.sbs.ox.ac.uk/view/divisions/cen=5Fcbt/1993.html">1993</a> (1)</li>
+			<li><a href="https://wayback.archive-it.org/org-467/20200807112807/http://eureka.sbs.ox.ac.uk/view/divisions/cen=5Fcbt/1992.html">1992</a> (5)</li>
+			<li><a href="https://wayback.archive-it.org/org-467/20200807112807/http://eureka.sbs.ox.ac.uk/view/divisions/cen=5Fcbt/1991.html">1991</a> (1)</li>
+			<li><a href="https://wayback.archive-it.org/org-467/20200807112807/http://eureka.sbs.ox.ac.uk/view/divisions/cen=5Fcbt/1990.html">1990</a> (4)</li>
+			<li><a href="https://wayback.archive-it.org/org-467/20200807112807/http://eureka.sbs.ox.ac.uk/view/divisions/cen=5Fcbt/1989.html">1989</a> (1)</li>
+			<li><a href="https://wayback.archive-it.org/org-467/20200807112807/http://eureka.sbs.ox.ac.uk/view/divisions/cen=5Fcbt/1988.html">1988</a> (3)</li>
+			<li><a href="https://wayback.archive-it.org/org-467/20200807112807/http://eureka.sbs.ox.ac.uk/view/divisions/cen=5Fcbt/1987.html">1987</a> (2)</li>
+			<li><a href="https://wayback.archive-it.org/org-467/20200807112807/http://eureka.sbs.ox.ac.uk/view/divisions/cen=5Fcbt/1984.html">1984</a> (1)</li>
+			<li><a href="https://wayback.archive-it.org/org-467/20200807112807/http://eureka.sbs.ox.ac.uk/view/divisions/cen=5Fcbt/1983.html">1983</a> (3)</li>
+			<li><a href="https://wayback.archive-it.org/org-467/20200807112807/http://eureka.sbs.ox.ac.uk/view/divisions/cen=5Fcbt/NULL.html"></a> (6)</li>
+		</ul>
+
+
+            
+      </div>
+      <!-- End Main Content Column -->     
+
+    </div>
+    <!-- End Column and main content row -->
+    
+    <div class="row">      
+    	<div class="large-12 columns footer-bottom"> 
+				<ul class="footer-links">
+					<li><a href="/">Home</a></li>
+					<li><a href="information.html">Information</a></li>
+        			<li><a href="contact.html">Contact</a></li>
+					<li><a href="https://www.sbs.ox.ac.uk/about-us/website-policies">Accessibility &amp; Privacy Policies</a></li>
+				</ul>
+
+       <p class="copyright">Copyright &copy; <script type="text/javascript">document.write(new Date().getFullYear());</script><noscript>2014</noscript>, <a href="http://www.sbs.ox.ac.uk">Saïd Business School</a>, <a href="http://www.ox.ac.uk">University of Oxford</a>, All Rights Reserved.</p>      </div>
+    </div>
+    
+	
+
+
+
+</div><!-- End Wrapper large-12 columns -->
+</div><!-- End Wrapper row -->
+      
+        
+    <script src="js/vendor/jquery.js"></script>
+    <script src="js/foundation.min.js"></script>
+    <script>
+      $(document).foundation();
+    </script>
+  </body>
+</html>
