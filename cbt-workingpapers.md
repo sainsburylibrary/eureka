@@ -159,8 +159,6 @@
 - [7300: The economics of corporate and business tax reform](https://wayback.archive-it.org/org-467/20200807110009/https://eureka.sbs.ox.ac.uk/7300/)
 - [7301: EU VAT principles as interpretative aids to EU VAT rules: the inherent paradox](https://wayback.archive-it.org/org-467/20200807110009/https://eureka.sbs.ox.ac.uk/7301/)
 - [7312: Residual Profit Allocation by Income](https://wayback.archive-it.org/org-467/20200807110009/https://eureka.sbs.ox.ac.uk/7312/)
-
-## Not yet archived (snapshot pending)
 - [7423: Sales and Price Effects of Pre-announced Consumption Tax reforms: Micro-level Evidence from Europoean VAT](https://wayback.archive-it.org/org-467/20200807110009/https://eureka.sbs.ox.ac.uk/7423/)
 - [7424: Bridging the Red-Blue Divide: A Proposal for U.S. Regional Tax relief](https://wayback.archive-it.org/org-467/20200807110009/https://eureka.sbs.ox.ac.uk/7424/)
 - [7426: Taxation and Supplier Networks: Evidence from India](https://wayback.archive-it.org/org-467/20200807110009/https://eureka.sbs.ox.ac.uk/7426/)
